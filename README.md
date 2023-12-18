@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshithasandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="heshithasandeepa" /> </p>
 
-- 🔭 I’m currently working on [Rasingminds](https://github.com/Coding-Hamsters/RaisingMinds) project
-
 - 🌱 I’m currently learning **web and mobile development**
 
 - 📫 How to reach me **hesithedg@gmail.com**
