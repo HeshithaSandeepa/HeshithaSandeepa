@@ -54,8 +54,8 @@
 <h3>📊 GitHub Stats:</h3>
  <div align="center">
   <p>
-<img src="https://github-readme-stats.vercel.app/api?username=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false&amp;include_all-commits=false&amp;count_private=false" alt="GitHub Stats" width="400">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false" alt="" width="440"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false&amp;include_all-commits=false&amp;count_private=false" alt="GitHub Stats" width="360">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false" alt="" width="400"></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false&amp;include_all-commits=false&amp;count_private=false&amp;layout=compact" alt="GitHub Readme Stats"><br>
 <img class="items-center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeshithaSandeepa&amp;theme=2077">
  </div>
