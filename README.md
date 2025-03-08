@@ -1,17 +1,32 @@
-<h1 align="center">Hi 👋, I'm Heshitha Sandeepa</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/JWr0Oim.png" width="100%" >
+
+</p>
+
+
 <h3 align="center">Undergraduate Software engineer</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heshithasandeepa&label=Profile%20views&color=0e75b6&style=flat" alt="heshithasandeepa" /> </p>
 
-- 🌱 I’m currently learning **web and mobile development**
+- 🌱 I’m currently learning **React, Springboot**
+
+- 👨‍💻 All of my projects are available at [https://heshithasandeepa.github.io/Portfolio-webSite/](https://heshithasandeepa.github.io/Portfolio-webSite/)
+
+- 💬 Ask me about **Html,Css,Bootstrap,javascript,Python**
 
 - 📫 How to reach me **hesithedg@gmail.com**
 
-## 🌐 Socials:
+- ⚡ Fun fact **With PC games**
+
+
+
+## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heshitha-sandeepa-8a225b24a/)
 
 <h3 align="left">Languages and Tools:</h3>
-###
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
@@ -62,7 +77,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false&amp;include_all-commits=false&amp;count_private=false" alt="GitHub Stats" width="360">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false" alt="" width="400"></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshithaSandeepa&amp;theme=dark&amp;hide_border=false&amp;include_all-commits=false&amp;count_private=false&amp;layout=compact" alt="GitHub Readme Stats"><br>
-<img class="items-center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeshithaSandeepa&amp;theme=2077">
+<img class="items-center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeshithaSandeepa&amp;theme=2077">
+<!-- <img class="items-center"  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=HeshithaSandeepa&langs_count=8"> -->
  </div>
 
 
