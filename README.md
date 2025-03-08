@@ -1,10 +1,9 @@
 
-<p align="center">
-  <img src="https://i.imgur.com/JWr0Oim.png" width="100%" >
 
-</p>
-
-
+<h1 align="center">"<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">" Hello, I'm Heshith Sandeepa! </h1><br/>
+  <p align="center">
+      <img src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif" width="100%" >
+  </p></br>
 <h3 align="center">Undergraduate Software engineer</h3>
 
 
@@ -14,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://heshithasandeepa.github.io/Portfolio-webSite/](https://heshithasandeepa.github.io/Portfolio-webSite/)
 
-- 💬 Ask me about **Html,Css,Bootstrap,javascript,Python**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Python**
 
 - 📫 How to reach me **hesithedg@gmail.com**
 
