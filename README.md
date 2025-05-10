@@ -10,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **React, Springboot**
+- 🌱 I’m currently learning **React, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://heshithasandeepa.github.io/Portfolio-webSite/](https://heshithasandeepa.github.io/Portfolio-webSite/)
 
